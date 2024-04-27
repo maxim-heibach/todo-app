@@ -6,7 +6,7 @@ Matrikelnummer: 909442
 ## Aufgabe
 Implementieren Sie mit einem der in MMI14 genannten Frameworks im Backend eine einfache Todo-App, die wie folgt gestaltet sein soll:
 
-![Aufgabe 5](task5.png)
+![Aufgabe 5](pictures/task5.png)
 
 Die Anwendung startet mit leeren Listen. Ein Klick auf den Button Neues Todo anlegen soll den eingegebenen Text in die Liste der offenen Todos aufnehmen. Sollte das Textfeld bei einem Klick auf den Button leer sein, soll kein neues Todo erstellt werden. Duplikate (d.h. Todos mit gleichem Text) können Sie dabei einfach mehrmals aufnehmen.  
 Ein Klick auf Todo erledigt soll das ausgewählte Todo aus den offenen Todos entfernen und in die Liste der erledigten Todos aufnehmen, wobei der Zeitpunkt der Erledigung wie in der Abbildung gezeigt an die Ausgabe angehängt werden soll.  
